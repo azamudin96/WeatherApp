@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather App</string>
+
+    <!-- Patterns -->
+    <string name="runtime_pattern_single">%s hour and %s minutes</string>
+    <string name="runtime_pattern_multiple">%s hours and %s minutes</string>
+    <string name="feels_like">Feels like %s</string>
 </resources>
